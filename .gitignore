@@ -1,0 +1,6 @@
+# Downloaded / generated data (recreate by running notebooks/01_explore_secom.ipynb)
+data/*.csv
+
+# Python / Jupyter
+__pycache__/
+.ipynb_checkpoints/
